@@ -1,0 +1,4 @@
+index.html : ../sources/docs/index.adoc ../sources/docs//topmenu.adoc ../sources/topics/literature.adoc ../sources/docs/images/corejava-1-11ed.jpg ../sources/docs/images/corejava-2-11ed.jpg ../sources/topics/topics.adoc ../sources/topics/wow.adoc 
+
+gradecollector.html : ../sources/docs/gradecollector.adoc 
+
